@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/sample-socmed/static/js/main.453d4564.js",
+    "index.html": "/sample-socmed/index.html",
+    "main.453d4564.js.map": "/sample-socmed/static/js/main.453d4564.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.453d4564.js"
+  ]
+}
